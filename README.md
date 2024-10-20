@@ -1,19 +1,21 @@
-<h1>
-  hey there, I'm Akshaya V! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<div id="badges">
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=akshayav222&color=blue)
+<div>
   <a href="https://www.linkedin.com/in/akshayavinod/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  &nbsp
   <a href="https://akshayav222.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
+<div>
+<h1> Hey there, I'm Akshaya V! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+</div>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=akshayav222&color=blue)
+
 
 
 
@@ -27,6 +29,7 @@
 📂 Check out my projects: **Inventory Dashboards**, **Brain Tumor Detection**, and more!
 
 
+---
 
 ### 🌟 My Stats
 
