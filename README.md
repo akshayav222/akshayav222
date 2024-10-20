@@ -4,20 +4,20 @@
 </h1>
 
 <div id="badges">
-  <a href="your-linkedin-URL](https://www.linkedin.com/in/akshayavinod/">
+  <a href="https://www.linkedin.com/in/akshayavinod/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
   <a href="https://akshayav222.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-lavender?style=for-the-badge&logo=portfolio&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=akshayav222&color=lavender)
+![Profile Views](https://komarev.com/ghpvc/?username=akshayav222&color=blue)
 
----
 
-## 👩‍💻 About Me
+
+### 👩‍💻 About Me
 👩‍💻 **Data Analyst | Master’s in Computer Science (Data Science)**  
 🔍 Passionate about turning data into actionable insights  
 📊 Skilled in **Python**, **SQL**, **Power BI**, and **Tableau**  
@@ -26,9 +26,9 @@
 🌱 Constantly learning new technologies to drive innovation  
 📂 Check out my projects: **Inventory Dashboards**, **Brain Tumor Detection**, and more!
 
----
 
-## 🌟 My Stats
+
+### 🌟 My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akshayav222&theme=dark&background=000000)](https://git.io/streak-stats)
 
