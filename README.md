@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/akshayavinod/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
+  &nbsp
   <a href="https://akshayav222.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
